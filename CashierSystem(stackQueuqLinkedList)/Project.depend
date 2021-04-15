@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1609975530 source:e:\iti\ds&algo\task day1 linked list\project\project\main.cpp
+	<iostream>
+	"process.h"
+	"Stack.h"
+	"Queue.h"
+
+1609974599 e:\iti\ds&algo\task day1 linked list\project\project\include\process.h
+
+1609965272 e:\iti\ds&algo\task day1 linked list\project\project\include\stack.h
+	"StackNode.h"
+
+1608129046 e:\iti\ds&algo\task day1 linked list\project\project\include\stacknode.h
+
+1609961721 e:\iti\ds&algo\task day1 linked list\project\project\include\queue.h
+	"Node.h"
+
+1607950475 e:\iti\ds&algo\task day1 linked list\project\project\include\node.h
+
+1610069877 source:g:\iti\ds\project\project\main.cpp
+	<iostream>
+	"process.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610066203 g:\iti\ds\project\project\include\process.h
+	"LinkedList.h"
+
+1610066160 g:\iti\ds\project\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1607950475 g:\iti\ds\project\project\include\node.h
+
+1609965272 g:\iti\ds\project\project\include\stack.h
+	"StackNode.h"
+
+1608129046 g:\iti\ds\project\project\include\stacknode.h
+
+1610058900 g:\iti\ds\project\project\include\queue.h
+	"Node.h"
+
+1610108921 source:e:\iti\ds&algo\task day1 linked list\project\final\project\main.cpp
+	<iostream>
+	"process.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610108056 e:\iti\ds&algo\task day1 linked list\project\final\project\include\process.h
+	"LinkedList.h"
+
+1610066160 e:\iti\ds&algo\task day1 linked list\project\final\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1607950475 e:\iti\ds&algo\task day1 linked list\project\final\project\include\node.h
+
+1609965272 e:\iti\ds&algo\task day1 linked list\project\final\project\include\stack.h
+	"StackNode.h"
+
+1608129046 e:\iti\ds&algo\task day1 linked list\project\final\project\include\stacknode.h
+
+1610058900 e:\iti\ds&algo\task day1 linked list\project\final\project\include\queue.h
+	"Node.h"
+
+1610199094 source:d:\project\main.cpp
+	<iostream>
+	"process.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610108056 d:\project\include\process.h
+	"LinkedList.h"
+
+1610066160 d:\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1607950475 d:\project\include\node.h
+
+1609965272 d:\project\include\stack.h
+	"StackNode.h"
+
+1608129046 d:\project\include\stacknode.h
+
+1610197918 d:\project\include\queue.h
+	"Node.h"
+
+1610987106 source:e:\iti\data structures\proj\project\main.cpp
+	<iostream>
+	"ClientsRoundRobin.h"
+
+1610811472 e:\iti\data structures\proj\project\include\process.h
+	"LinkedList.h"
+	<string>
+
+1610066160 e:\iti\data structures\proj\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1607950475 e:\iti\data structures\proj\project\include\node.h
+
+1609965272 e:\iti\data structures\proj\project\include\stack.h
+	"StackNode.h"
+
+1610923276 e:\iti\data structures\proj\project\include\stacknode.h
+
+1610919863 e:\iti\data structures\proj\project\include\queue.h
+	"Node.h"
+
+1610922699 source:d:\iti\datastructures\projectds\proj\project\main.cpp
+	<iostream>
+	"process.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+	"RRAlgo.h"
+
+1610918944 d:\iti\datastructures\projectds\proj\project\include\process.h
+	"LinkedList.h"
+	<string>
+
+1610066160 d:\iti\datastructures\projectds\proj\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1607950475 d:\iti\datastructures\projectds\proj\project\include\node.h
+
+1609965272 d:\iti\datastructures\projectds\proj\project\include\stack.h
+	"StackNode.h"
+
+1608129046 d:\iti\datastructures\projectds\proj\project\include\stacknode.h
+
+1610919863 d:\iti\datastructures\projectds\proj\project\include\queue.h
+	"Node.h"
+
+1610915111 d:\iti\datastructures\projectds\proj\project\include\rralgo.h
+	"process.h"
+	"Stack.h"
+	"LinkedList.h"
+	"Queue.h"
+
+1610943832 source:c:\users\zeyad\documents\proj\project\main.cpp
+	<iostream>
+	"CustomerRoundRobin.h"
+
+1609965272 c:\users\zeyad\documents\proj\project\include\stack.h
+	"StackNode.h"
+
+1610923276 c:\users\zeyad\documents\proj\project\include\stacknode.h
+
+1610919863 c:\users\zeyad\documents\proj\project\include\queue.h
+	"Node.h"
+
+1607950475 c:\users\zeyad\documents\proj\project\include\node.h
+
+1610066160 c:\users\zeyad\documents\proj\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1610915111 c:\users\zeyad\documents\proj\project\include\rralgo.h
+	"process.h"
+	"Stack.h"
+	"LinkedList.h"
+	"Queue.h"
+
+1610918944 c:\users\zeyad\documents\proj\project\include\customerproc.h
+	"LinkedList.h"
+	<string>
+
+1610944036 c:\users\zeyad\documents\proj\project\include\customerroundrobin.h
+	"CustomerProc.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610987106 source:d:\iti\datastructures\projectds\new folder\proj\project\main.cpp
+	<iostream>
+	"ClientsRoundRobin.h"
+
+1610984485 d:\iti\datastructures\projectds\new folder\proj\project\include\customerroundrobin.h
+	"ClientsProcesses.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610984002 d:\iti\datastructures\projectds\new folder\proj\project\include\customerproc.h
+	"LinkedList.h"
+	<string>
+
+1610066160 d:\iti\datastructures\projectds\new folder\proj\project\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1607950475 d:\iti\datastructures\projectds\new folder\proj\project\include\node.h
+
+1609965272 d:\iti\datastructures\projectds\new folder\proj\project\include\stack.h
+	"StackNode.h"
+
+1610923276 d:\iti\datastructures\projectds\new folder\proj\project\include\stacknode.h
+
+1610919863 d:\iti\datastructures\projectds\new folder\proj\project\include\queue.h
+	"Node.h"
+
+1610988053 d:\iti\datastructures\projectds\new folder\proj\project\include\clientsroundrobin.h
+	"ClientsProcesses.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610984413 d:\iti\datastructures\projectds\new folder\proj\project\include\clientsprocesses.h
+	"LinkedList.h"
+	<string>
+
+1610990480 e:\iti\data structures\proj\project\include\clientsroundrobin.h
+	"ClientsProcesses.h"
+	"Stack.h"
+	"Queue.h"
+	"LinkedList.h"
+
+1610989263 e:\iti\data structures\proj\project\include\clientsprocesses.h
+	"LinkedList.h"
+	<string>
+
